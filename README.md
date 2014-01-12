@@ -1,4 +1,4 @@
-# opencv-example-fps
+# opencv-webcam-fps
 
 On mac you can install opencv with homebrew
 
